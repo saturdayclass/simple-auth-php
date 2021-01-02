@@ -20,6 +20,7 @@
 </head>
 <body>
   <h1>Selamat datang, <?= $nama ?></h1>
+  <a href="logout.php">Logout</a>
 </body>
 </html>
 
