@@ -1,6 +1,6 @@
 # simple-login-php
 
-Ini adalah repository contoh aplikasi login sederhana menggunakan bahasa pemrograman PHP dengan bantuan database SQL yaitu MySQL
+Ini adalah repository contoh aplikasi login sederhana menggunakan bahasa pemrograman PHP dengan bantuan database SQL yaitu MySQL dan Framework CSS yaitu Bootstrap agar tampilan lebih menarik
 
 # Panduan Penggunaan
 
