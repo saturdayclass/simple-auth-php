@@ -33,7 +33,7 @@
           <input type="password" class="form-control" id="inputPassword" name="password" placeholder="Masukan Password">
         </div>
         <input name="daftar" type="submit" class="btn btn-primary" value="Daftar">
-        <a href="index.php" type="button" class="btn btn-info text-white">Kembali</a>
+        <a href="login.php" type="button" class="btn btn-info text-white">Login</a>
       </form>
     </div>
   </section>
