@@ -1,10 +1,12 @@
 <?php
 
-  $nama = $_SESSION["nama"];
+  session_start();
+
+  $nama = $_SESSION["username"];
 
   if($_SESSION["status"] !== "login"){
     header("Location: login.php");
-  }
+  } else {
 
 ?>
 
@@ -20,3 +22,5 @@
   <h1>Selamat datang, <?= $nama ?></h1>
 </body>
 </html>
+
+<?php } ?>
